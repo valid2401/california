@@ -1,0 +1,284 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color:black; 
+    overflow-x:hidden;
+}
+
+/* First Heading */
+
+.d1{
+    color:white;
+    position:relative;
+    text-align: center;
+    top:200px; 
+    font-size:20px; 
+}
+
+.h1{
+    color:white; 
+    position:relative;
+    text-align: center;
+    top:150px; 
+    font-size:60px; 
+}
+
+.h2 {
+    -webkit-text-stroke: 3px white;
+    color:black; 
+    position:relative;
+    text-align: center;
+    top:100px; 
+    font-size:60px; }
+
+.d2 {
+    color:white;
+    position:relative;
+    text-align: center;
+    top:50px; 
+    font-size:20px; 
+}
+
+/* Frage :) Unten sollte der Button sein der war zuerst da aber hat danach nicht mehr funktioniert. Wo ist mein Fehler? */
+.d3{
+    
+        background-color: green;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+
+      
+}
+
+/* H2 Last Year, */
+
+.h3{
+    color:white; 
+    position:relative;
+    text-align: center;
+    top:150px; 
+    font-size:60px;
+    width:50%; 
+    left:25%; 
+
+}
+
+.calimap{
+    height:1000px;
+    position:relative;
+    left:60%; 
+    top:100px; 
+
+}
+
+/* /* California Facts */
+
+.p1 {
+    color:white;
+    position:relative;
+    left:300px; 
+    font-size:30px;
+    top:-800px; 
+
+}
+
+.h4{
+    color:white; 
+    position:relative;
+    text-align: center;
+    top:-850px; 
+    font-size:60px;
+    width:50%; 
+    left:-100px; 
+}
+
+.p2{
+    color:white;
+    position:relative;
+    left:300px; 
+    font-size:30px;
+    top:-900px; 
+}
+
+.h5{
+    color:white; 
+    position:relative;
+    text-align: center;
+    top:-950px; 
+    font-size:60px;
+    width:50%; 
+    left:-100px; 
+}
+
+.p3{
+    color:white;
+    position:relative;
+    left:300px; 
+    font-size:30px;
+    top:-1000px; 
+}
+
+.h6{
+    color:white; 
+    position:relative;
+    text-align: center;
+    top:-1090px; 
+    font-size:60px;
+    width:50%; 
+    left:-50px; 
+}
+
+.img2{
+    width:30%; 
+    height:50%; 
+    position:relative;
+    left:70%;
+    top:200px; 
+}
+
+.div5{
+    width:100%;
+    height:3000px;
+    background-color: white;
+
+}
+
+.img3{
+    width:30%; 
+    height:50%; 
+    position:relative;
+    top:-2500px; 
+    left:5%; 
+}
+
+.h7{
+    font-size:30px;
+    position:relative;
+    top:-2800px; 
+    left:40%; 
+}
+
+.p7{
+    font-size:15px;
+    position:relative;
+    top:-2830px; 
+    left:40%; 
+}
+
+.tshirt{
+    width:20%; 
+    height:50%; 
+    position:relative;
+    top:-2800px; 
+    left:75%; 
+}
+
+.tshirtbear{
+    width:20%; 
+    height:50%; 
+    position:relative;
+    top:-2500px; 
+    left:; 
+}
+
+.tshirtmachine{
+    width:20%; 
+    height:50%; 
+    position:relative;
+    top:-2200px; 
+    left:20%; 
+}
+
+.tshirtproduction{
+    width:20%; 
+    height:50%; 
+    position:relative;
+    top:-1800px; 
+    left:-50%; 
+}
+
+.p9{
+    font-size:15px;
+    font-weight: bold;
+    width:30%; 
+    position:relative;
+    top:-2030px; 
+    left:35%; 
+    
+}
+
+.tshirtguy{
+    width:40%; 
+    height:700px; 
+    position:relative;
+    top:-1400px; 
+   left:50%;  
+}
+
+.goldenbear{
+    color:white; 
+    position:relative;
+    top:-1100px; 
+    left:20%; 
+    font-size:30px; 
+}
+.span001{
+    position:relative;
+    top:50px; 
+}
+
+.thisdesign{
+    color:white;
+    font-size:30px; 
+    text-align:center; 
+    position:relative; 
+    top:-1300px; 
+    font-weight:bold; 
+    left:200px; 
+}
+
+.lastwhite{
+    width:100%;
+    height:3000px;
+    background-color: white;
+    position:relative;
+    top:-500px; 
+}
+
+.bearwithflower{
+    width:30%; 
+    position:relative;
+    top:-3900px;
+    left:30%;  
+}
+
+.gb222{
+    width:30%; 
+    position:relative;
+    top:-3900px;
+    left:30%; 
+    height: 300px;
+}
+
+.ar002{
+    font-size:20px; 
+    position:relative;
+    top:-2000px; 
+    left:30%; 
+
+}
+
+.thepoppy{
+    
+    font-size:50px; 
+    position:relative;
+    top:-2000px; 
+    left:30%; 
+    font-weight:bold; 
+    
+ 
+}
